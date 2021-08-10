@@ -1,2 +1,2 @@
 # learning_git_again
-# repo used to lean git from amigocodes
+# repo used to learn git from amigocodes
